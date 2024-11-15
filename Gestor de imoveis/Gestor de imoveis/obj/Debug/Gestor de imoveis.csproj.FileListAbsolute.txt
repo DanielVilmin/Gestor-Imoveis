@@ -1,0 +1,27 @@
+C:\Users\Daniel\source\repos\Gestor de imoveis\Gestor de imoveis\bin\Debug\Gestor de imoveis.exe.config
+C:\Users\Daniel\source\repos\Gestor de imoveis\Gestor de imoveis\bin\Debug\Gestor de imoveis.exe
+C:\Users\Daniel\source\repos\Gestor de imoveis\Gestor de imoveis\bin\Debug\Gestor de imoveis.pdb
+C:\Users\Daniel\source\repos\Gestor de imoveis\Gestor de imoveis\obj\Debug\Gestor de imoveis.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\Gestor de imoveis\Gestor de imoveis\obj\Debug\Gestor_de_imoveis.frmInicial.resources
+C:\Users\Daniel\source\repos\Gestor de imoveis\Gestor de imoveis\obj\Debug\Gestor_de_imoveis.Properties.Resources.resources
+C:\Users\Daniel\source\repos\Gestor de imoveis\Gestor de imoveis\obj\Debug\Gestor de imoveis.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\Gestor de imoveis\Gestor de imoveis\obj\Debug\Gestor de imoveis.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Gestor de imoveis\Gestor de imoveis\obj\Debug\Gestor de imoveis.exe
+C:\Users\Daniel\source\repos\Gestor de imoveis\Gestor de imoveis\obj\Debug\Gestor de imoveis.pdb
+C:\Users\Daniel\source\repos\Gestor de imoveis\Gestor de imoveis\obj\Debug\Gestor_de_imoveis.FrmInserirImovel.resources
+C:\Users\Daniel\source\repos\Gestor de imoveis\Gestor de imoveis\obj\Debug\Gestor_de_imoveis.FrmAmostrarImoveis.resources
+C:\Users\Daniel\Desktop\Gestor de imoveis\Gestor de imoveis\bin\Debug\Gestor de imoveis.exe.config
+C:\Users\Daniel\Desktop\Gestor de imoveis\Gestor de imoveis\bin\Debug\Gestor de imoveis.exe
+C:\Users\Daniel\Desktop\Gestor de imoveis\Gestor de imoveis\bin\Debug\Gestor de imoveis.pdb
+C:\Users\Daniel\Desktop\Gestor de imoveis\Gestor de imoveis\obj\Debug\Gestor de imoveis.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Gestor de imoveis\Gestor de imoveis\obj\Debug\Gestor_de_imoveis.frmInicial.resources
+C:\Users\Daniel\Desktop\Gestor de imoveis\Gestor de imoveis\obj\Debug\Gestor_de_imoveis.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Gestor de imoveis\Gestor de imoveis\obj\Debug\Gestor de imoveis.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\Gestor de imoveis\Gestor de imoveis\obj\Debug\Gestor de imoveis.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Gestor de imoveis\Gestor de imoveis\obj\Debug\Gestor de imoveis.exe
+C:\Users\Daniel\Desktop\Gestor de imoveis\Gestor de imoveis\obj\Debug\Gestor de imoveis.pdb
+C:\Users\Daniel\Desktop\Gestor de imoveis\Gestor de imoveis\obj\Debug\Gestor_de_imoveis.FrmLogin.resources
+C:\Users\Daniel\Desktop\Gestor de imoveis\Gestor de imoveis\obj\Debug\Gestor_de_imoveis.FrmImoveis.resources
+C:\Users\Daniel\Desktop\Gestor de imoveis\Gestor de imoveis\obj\Debug\Gestor_de_imoveis.FrmProp.resources
+C:\Users\Daniel\Desktop\Gestor de imoveis\Gestor de imoveis\obj\Debug\Gestor_de_imoveis.FrmImovelInquilino.resources
+C:\Users\Daniel\Desktop\Gestor de imoveis\Gestor de imoveis\obj\Debug\Gestor_de_imoveis.FrmInquilinos.resources
